@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Selected Work"
+    url: "/#selected-work"
+
+  - title: "Open Source"
+    url: "/#open-source"
+
+  - title: "Notes"
+    url: "/#notes"
