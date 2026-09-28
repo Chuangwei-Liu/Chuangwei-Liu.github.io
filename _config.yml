@@ -24,13 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chuangwei Liu"
-  avatar           : "images/avatar.svg"
-  bio              : "Researcher exploring machine learning and engineering problems"
-  location         : "China"
-  employer         :
+  avatar           : "https://avatars.githubusercontent.com/u/76684015?v=4"
+  bio              : "Ph.D. student in computational solid mechanics and machine learning"
+  location         : "Wuhan, China"
+  employer         : "Huazhong University of Science and Technology"
   pubmed           : 
   googlescholar    :
-  email            :
+  email            : "cw_liu@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

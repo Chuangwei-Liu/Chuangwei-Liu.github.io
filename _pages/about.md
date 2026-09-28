@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chuangwei Liu. This is my personal academic homepage for sharing research, open-source work, and notes.
+I am Chuangwei Liu, a Ph.D. student at Huazhong University of Science and Technology (HUST). This is my personal academic homepage for sharing research, open-source work, and notes.
 
-My work explores data-driven methods for engineering analysis. I am interested in the broader questions that connect machine learning, uncertainty quantification, optimization, scientific computing, and real-world decision making. The specific problems may change over time; the common thread is building methods that are useful, interpretable, and reproducible.
+My main research interests are computational solid mechanics and machine learning. I am interested in the broader questions that connect data-driven modelling, uncertainty quantification, optimization, scientific computing, and real-world engineering decision making. The specific problems may change over time; the common thread is building methods that are useful, interpretable, and reproducible.
 
 This site is intentionally not limited to one model family or one application area. It will grow with the questions I work on.
 
@@ -27,13 +27,17 @@ My current interests include:
 
 # Selected Work
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/frcc-graphical-abstract.png' alt='Graphical abstract for the FRCC Bayesian neural network project' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
 ## Bayesian neural networks for FRCCs
 
 An open research project on Bayesian neural-network-based prediction and uncertainty-aware multi-objective optimization for fiber-reinforced cementitious composites.
 
-This is one of my publicly released research projects. The code, data description, reproduction instructions, and research context are available in the companion repository:
+The graphical abstract above summarizes the project. The code, data description, reproduction instructions, and research context are available in the companion repository:
 
 [View the FRCC project on GitHub](https://github.com/Chuangwei-Liu/Bayesian-Neural-Networks-for-FRCCs-Prediction-and-Multi-objective-Optimization-Based-On-Uncertainty)
+</div></div>
 
 # Open Source
 
